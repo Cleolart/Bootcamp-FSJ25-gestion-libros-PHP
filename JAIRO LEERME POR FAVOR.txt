@@ -2,3 +2,5 @@ Descomprimir dentro de una carpeta llamada "biblioteca" porque es la ruta que he
 
 ejemplo
 biblioteca/public/index.php
+
+El script de la base está dentro de la carpeta config "biblioteca.sql"
