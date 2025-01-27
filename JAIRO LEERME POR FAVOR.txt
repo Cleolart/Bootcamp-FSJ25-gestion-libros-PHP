@@ -1,0 +1,4 @@
+Descomprimir dentro de una carpeta llamada "biblioteca" porque es la ruta que he ocupado para las URL
+
+ejemplo
+biblioteca/public/index.php
